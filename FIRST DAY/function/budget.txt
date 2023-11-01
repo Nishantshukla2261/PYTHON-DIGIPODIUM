@@ -1,0 +1,3 @@
+biscuit=50
+choclate=12
+milk=50
